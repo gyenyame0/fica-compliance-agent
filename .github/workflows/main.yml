@@ -1,0 +1,14 @@
+ai-fica-agent/
+├── app.py
+├── workflows/
+│ └── process_fica_documents.py
+├── agents/
+│ ├── file_processor.py
+│ ├── compliance_checker.py
+│ └── str_generator.py
+├── utils/
+│ ├── extract_text.py
+│ ├── validators.py
+│ └── prompts.py
+├── requirements.txt
+└── README.md
