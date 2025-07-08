@@ -1,0 +1,8 @@
+streamlit
+langchain
+openai
+PyPDF2
+pytesseract
+Pillow
+python-docx
+pdfminer.six
